@@ -13,6 +13,7 @@ def add(a,b):
     print("Add")
     answer=a+b
     print("{}+{}={}".format(a,b,answer))
+    return answer
     
 def subtract(a,b):
     print("Subtract")
