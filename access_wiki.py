@@ -1,5 +1,3 @@
 import wikipedia
-result=wikipedia.page("Fifa world cup")
+result = wikipedia.page("Fifa world cup")
 print(result.summary)
-
-
